@@ -1,4 +1,5 @@
 'use strict';
+/* @noflow */
 
 import React, {
   PropTypes,
