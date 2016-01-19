@@ -1,4 +1,5 @@
 'use strict';
+/* @flow */
 
 let Colors = {
   tint: 'rgb(0, 122, 255)',

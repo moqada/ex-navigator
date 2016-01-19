@@ -1,4 +1,5 @@
 'use strict';
+/* @flow */
 
 import type { Component } from 'react-native';
 import type * as ExNavigator from './ExNavigator';

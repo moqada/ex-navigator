@@ -24,5 +24,8 @@
     "@exponent/react-native-responsive-image": "^1.0.0",
     "invariant": "^2.2.0",
     "react-clone-referenced-element": "^1.0.1"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.20.1"
   }
 }
